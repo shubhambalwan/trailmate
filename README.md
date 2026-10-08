@@ -13,7 +13,7 @@ offline challenges, observation prompts, and post-adventure journals.
 ## Open AI
 
 The project is designed around open-weight models, initially targeting
-Qwen3-4B-Instruct-2507 with local inference.
+Qwen3-0.6B-Instruct-2507 with local inference.
 
 ## Philosophy
 
